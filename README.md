@@ -1,5 +1,7 @@
 # Shark_Attack_Quest
 
+![](https://github.com/goncalocostacarvalho/Shark_Attack_Quest/blob/main/Cover_Image.png)
+
 # Introduction
 Project about data cleaning and manipulation insert on Data Analysis Bootcamp from Ironhack
 
